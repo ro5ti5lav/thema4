@@ -1,6 +1,6 @@
 
 import './App.css';
-
+//import { useMediaQuery } from 'react-responsive';
 import React, { useState, useEffect } from 'react';
 
 function Timer() {
